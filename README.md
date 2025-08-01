@@ -4,8 +4,8 @@ React web application that displays genome assembly information using the Ensemb
 
 ## Requirements
 
-- **Node.js** (version 16.0 or higher)
-- **npm** (comes with Node.js)
+- **Node.js** (v19 or higher)
+- **npm** v8.19+ 
 
 ## Setup
 
